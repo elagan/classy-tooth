@@ -28,7 +28,7 @@ const TaskDescription = () => {
               at the right end of the Tile
               <br />
               <img
-                src="https://raw.githubusercontent.com/tgikf/static_host/main/badgepos.png"
+                src="https://raw.githubusercontent.com/elagan18/classy-tooth/master/public/design.jpg"
                 height="200px"
               />
             </li>
