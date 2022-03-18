@@ -1,0 +1,13 @@
+.styledTile {
+  margin: 1em auto 1em auto;
+  width: 300px;
+  border: 1px solid;
+  background-color: papayawhip;
+  font-family: sans-serif;
+  padding: 1em;
+}
+
+.subTitle {
+  color: tomato;
+  font-weight: bolder;
+}
