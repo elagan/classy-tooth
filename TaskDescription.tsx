@@ -15,8 +15,8 @@ const TaskDescription = () => {
           <strong>Tile Badge Hideability</strong>
           <br />
           Each Tile component has a badge that displays the Tile's ID as well as
-          a ❌ icon. Enhance the app so that the Badge component is hidden when
-          the user clicks on the ❌ icon
+          a ❌ icon. Enhance the app so that the Tile is hidden when the user
+          clicks on the ❌ icon
         </li>
         <li>
           <strong>Tile Badge Styling</strong>
